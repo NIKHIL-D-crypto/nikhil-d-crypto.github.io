@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.nikhildcrypto.sonora",
+        "sha256_cert_fingerprints": ["71:3A:63:33:9F:1E:24:E2:34:2D:D2:BB:CB:F8:C0:B1:43:20:82:2A:77:C9:3D:84:27:07:4B:33:34:BB:AF:DD"]
+      }
+    }]
